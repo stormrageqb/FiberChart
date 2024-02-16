@@ -2,8 +2,7 @@
 
 ## Link
 
-Check it out here: https://mully7773.github.io/FiberChart/
-
+Check it out here: https://fiber-chart.vercel.app/
 ## Description
 
 This is a mobile-responsive fiber charting application I made for a friend to help him more easily find and connect fibers for his job. I developed this application using HTML, CSS, and JavaScript.
@@ -52,7 +51,3 @@ CSS
 JavaScript
 <br>
 
-## Questions:
-
-Feel free to contact me at mully7773@gmail.com if you have any questions. <br>
-You can view more of my projects at https://github.com/Mully7773.
